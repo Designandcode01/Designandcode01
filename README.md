@@ -10,20 +10,11 @@
 </div>
 
 
-
 ---
 
-## 🏥 **Medical Professional** | 💻 **Tech Enthusiast**
+## 🏥 **Tech Enthusiast** | **Medical Professional**💻 
 
 Bridging the gap between **medical excellence** and **digital innovation** with over a decade of international experience.
-
-### 🩺 **Medical Career**
-- 🎓 **MBBS, FCPS** (Pakistan) - Plastic Surgery
-- 🇸🇦 **10 Years** in Saudi Arabia
-- 🏥 **Saad Specialist Hospital** - Plastic Surgery Specialist
-- 🏥 **MedArt Clinic** - Aesthetic Medicine Specialist
-- 🌍 Visited in **4+ Countries**
-- 💉 Currently: **Botox & Collagen Induction Specialist** in Pakistan
 
 ### 💻 **Tech Journey**
 - 🚀 **3+ Years** as a hobbyist developer
@@ -138,4 +129,12 @@ Bridging the gap between **medical excellence** and **digital innovation** with 
 <p align="center">
   <i>"Combining the precision of medicine with the creativity of code to build a better digital future"</i>
 </p>
+
+### 🩺 **Medical Career**
+- 🎓 **MBBS, FCPS** (Pakistan) - Plastic Surgery
+- 🇸🇦 **10 Years** in Saudi Arabia
+- 🏥 **Saad Specialist Hospital** - Plastic Surgery Specialist
+- 🏥 **MedArt Clinic** - Aesthetic Medicine Specialist
+- 🌍 Visited in **4+ Countries**
+- 💉 Currently: **Botox & Collagen Induction Specialist** in Pakistan
 
