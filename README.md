@@ -50,7 +50,7 @@ Bridging the gap between **medical excellence** and **digital innovation** with 
 - **Features**: Service showcase, booking system, gallery
 - **Status**: ✅ Live
 
-### [Healthcare Analytics Dashboard](https://github.com/Designandcode01/healthcare-analytics-dashboard)
+### [Pursuit Medical School](https://pursuitmedicalschoolquiz.vercel.app)
 > Data visualization for medical practice analytics
 - **Tech**: Next.js 16, TypeScript, Tailwind, Prisma, PostgreSQL
 - **Features**: Patient analytics, treatment tracking, revenue insights
