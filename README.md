@@ -1,5 +1,5 @@
 <h1 align="center">👋 Dr. Muhammad Ijaz</h1>
-<h3 align="center">Plastic Surgery Specialist | Next.js Developer</h3>
+<h3 align="center">Next.js Developer | Plastic Surgery Specialist</h3>
 
 
 <div style={{ textAlign: 'center' }}>
